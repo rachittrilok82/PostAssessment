@@ -1,0 +1,6 @@
+package com.socgenrachit.skilltracker.Entity;
+
+public enum skill {
+	
+	HTML_CSS_JAVASCRIPT,ANGULAR,REACT,SPRING,RESTFUL,HIBERNATE,GIT,DOCKER,JENKINS,AWS,SPOKEN,COMMUNICATION,APTITUDE
+}
